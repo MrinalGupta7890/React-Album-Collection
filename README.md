@@ -1,5 +1,5 @@
 # React-Album-Collection
-Hosted Link : https://akash-albums-collection-reactapp.netlify.app/
+Hosted Link : https://662395fb6fb671c0673c6bd4--stupendous-pavlova-7fdf66.netlify.app/
 
 
 
