@@ -1,19 +1,23 @@
+// Import necessary modules
 import React from 'react'
 import { Link } from "react-router-dom";
 import Navbar from './Navbar';
 
+// Define the AddAlbum component as a functional component
 const AddAlbum = (props) => {
 
-  //this function get all the input like userid and title then call add albumm function for add it on the album list
+  // Define a function called getAlbumFormData that gets the user ID and album title from the input fields
+  // and calls the addAlbumToList function passed in as a prop with the user ID and album title as arguments
   const getAlbumFormData = () => {
     const userId = document.getElementById('aaform-userid-inp').value;
     const title = document.getElementById('aaform-title-inp').value;
     props.addAlbumToList(Number(userId), title)
   }
 
+  // Return the JSX structure for the AddAlbum component
   return (
     <>
-      {/* navber */}
+      {/* Include the Navbar component at the top of the page */}
       <Navbar path="/" page="Home" />
 
 
@@ -29,6 +33,7 @@ const AddAlbum = (props) => {
             <input id='aaform-title-inp' type="text" />
           </div>
           <div>
+            {/* When the button is clicked, call the getAlbumFormData function */}
             <Link to="/"><button onClick={getAlbumFormData}>Add To List</button></Link>
           </div>
         </div>
@@ -37,4 +42,5 @@ const AddAlbum = (props) => {
   )
 }
 
+// Export the AddAlbum component as the default export
 export default AddAlbum
