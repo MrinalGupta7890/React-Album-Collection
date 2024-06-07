@@ -7,7 +7,7 @@ Welcome to the React Album Collection project! This is a React-based web applica
 **Add New Albums:** Users can add new albums to their collection by providing album details such as title, artist, genre, and release date.\
 **View Album Collection:** Users can view their entire album collection in a user-friendly interface.\
 **Search and Filter:** Users can search for specific albums and filter the collection based on various criteria.\
-**Responsive Design:** The application is designed to be fully responsive and works seamlessly on both desktop and mobile devices.\
+**Responsive Design:** The application is designed to be fully responsive and works seamlessly on both desktop and mobile devices.
 
 ## Technologies Used
 **React:** A JavaScript library for building user interfaces.\
