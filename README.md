@@ -19,11 +19,30 @@ Welcome to the React Album Collection project! This is a React-based web applica
 
 
 ## Installation
-To get started with the project, follow these steps:\
+To get started with the project, follow these steps:
 
 **1. Clone the repository:**
 
-git clone https://github.com/MrinalGupta7890/React-Album-Collection.git
+git clone https://github.com/MrinalGupta7890/React-Album-Collection.git\
+
+
+**2. Navigate to the project directory:**
+
+cd React-Album-Collection\
+
+
+**3. Install the dependencies:**
+
+npm intall
+
+
+**4. Start the development server:**
+
+npm start
+
+The application will be available at **http://localhost:3000.**
+
+
 
 
 
