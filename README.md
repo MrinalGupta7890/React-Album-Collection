@@ -14,7 +14,17 @@ Welcome to the React Album Collection project! This is a React-based web applica
 **Redux**: A state management library for managing the application state.\
 **React Router:** A library for routing in React applications.\
 **Axios:** A promise-based HTTP client for making API requests.\
-**CSS:** For styling the application.\
+**CSS:** For styling the application.
+
+
+
+## Installation
+To get started with the project, follow these steps:\
+
+**1. Clone the repository:**
+
+git clone https://github.com/MrinalGupta7890/React-Album-Collection.git
+
 
 
 
