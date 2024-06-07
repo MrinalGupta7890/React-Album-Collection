@@ -53,22 +53,22 @@ The application will be available at **http://localhost:3000.**
 
 React-Album-Collection\
 ├── public\
-│   └── index.html
+│   └── index.html\
 │  
 ├── src\
 │   ├── components\
-│   │   ├── AddAlbum.js
-│   │   ├── AlbumList.js
-│   │   ├── App.js
-│   │   ├── List.js
-│   │   ├── Navbar.js
-│   │   └── UpdateAlbum.js
+│   │   ├── AddAlbum.js\
+│   │   ├── AlbumList.js\
+│   │   ├── App.js\
+│   │   ├── List.js\
+│   │   ├── Navbar.js\
+│   │   └── UpdateAlbum.js\
 │   │    
 │   ├── index.css\
-│   └── index.js
+│   └── index.js\
 │   
-├── .gitignore
-├── package.json
+├── .gitignore\
+├── package.json\
 └── README.md
 
 
