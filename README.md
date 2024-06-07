@@ -51,26 +51,25 @@ The application will be available at **http://localhost:3000.**
 
 ## Folder Structure
 
-React-Album-Collection/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── AlbumForm.js
+React-Album-Collection\
+├── public\
+│   └── index.html
+│  
+├── src\
+│   ├── components\
+│   │   ├── AddAlbum.js
 │   │   ├── AlbumList.js
-│   │   └── ...
-│   ├── redux/
-│   │   ├── actions/
-│   │   ├── reducers/
-│   │   └── store.js
-│   ├── App.js
-│   ├── index.js
-│   └── ...
+│   │   ├── App.js
+│   │   ├── List.js
+│   │   ├── Navbar.js
+│   │   └── UpdateAlbum.js
+│   │    
+│   ├── index.css\
+│   └── index.js
+│   
 ├── .gitignore
 ├── package.json
-├── README.md
-└── ...
+└── README.md
 
 
 
