@@ -1,4 +1,24 @@
 # React-Album-Collection
+
+Overview
+Welcome to the React Album Collection project! This is a React-based web application designed to help users manage and showcase their album collections. The application allows users to add, view, and organize their music albums with ease.
+
+Features
+Add New Albums: Users can add new albums to their collection by providing album details such as title, artist, genre, and release date.
+View Album Collection: Users can view their entire album collection in a user-friendly interface.
+Search and Filter: Users can search for specific albums and filter the collection based on various criteria.
+Responsive Design: The application is designed to be fully responsive and works seamlessly on both desktop and mobile devices.
+Technologies Used
+React: A JavaScript library for building user interfaces.
+Redux: A state management library for managing the application state.
+React Router: A library for routing in React applications.
+Axios: A promise-based HTTP client for making API requests.
+CSS: For styling the application.
+
+
+
+
+
 Hosted Link : https://662395fb6fb671c0673c6bd4--stupendous-pavlova-7fdf66.netlify.app/
 
 
