@@ -1,9 +1,9 @@
 # React-Album-Collection
 
-Overview
+## Overview
 Welcome to the React Album Collection project! This is a React-based web application designed to help users manage and showcase their album collections. The application allows users to add, view, and organize their music albums with ease.
 
-Features
+## Features
 Add New Albums: Users can add new albums to their collection by providing album details such as title, artist, genre, and release date.
 View Album Collection: Users can view their entire album collection in a user-friendly interface.
 Search and Filter: Users can search for specific albums and filter the collection based on various criteria.
